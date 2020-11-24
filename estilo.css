@@ -1,0 +1,41 @@
+*   {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #569145;
+}
+
+h1  {
+    font-size: 300%;
+    font-weight: bold;
+}
+
+p.txt_cursiv {
+    font-style: oblique;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+
+p.pajaros , .chicharra  {
+    color: #E8D47C;
+    font-size: 140%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.escritor , .libro  {
+    color: orange;
+    font-size: 140%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1mm;
+}
+
+p.niño  {
+    color: white;
+    font-size: 140%;
+    font-family: monospace;
+}
+
+p.ceros , .numero {
+    color: rgb(167, 11, 141);
+    font-size: 140%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
